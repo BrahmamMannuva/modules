@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BrahmamMannuva/modules#readme",
   "dependencies": {
+    "git": "^0.1.5",
     "knex": "^2.2.0",
     "mysql": "^2.18.1"
   }
